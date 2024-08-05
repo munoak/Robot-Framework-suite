@@ -1,5 +1,5 @@
 *** Settings ***
-Documentation  Assignment Part-1: API Testing in Robot Framework
+Documentation  API Testing in Robot Framework
 Library     Collections
 Library     RequestsLibrary
 
